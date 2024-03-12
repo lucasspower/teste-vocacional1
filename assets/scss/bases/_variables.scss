@@ -1,0 +1,74 @@
+// General Colors
+$red: #ef6873;
+$green: #28a745;
+$blue: #425ae2;
+$yellow: #ffc107;
+$orange: #fd7e14;
+$brown: #7b4f2c;
+$purple: #8873d0;
+$pink: #f78dc3;
+$white: #f5f5f5;
+$black: #000000;
+$teal: #20b8b7;
+$cyan: #17a2b8;
+
+$rating_color: #b90561;
+
+$gray: #949494;
+$light-gray: #d1d1d1;
+$dark-gray: #353535;
+
+$heading-color: $dark-gray;
+$text-color: $white;
+$light-color: $light-gray;
+
+// Background color
+$bg-light: #f1f1f1;
+$bg-primary: $primary;
+
+$bg-black: $bg-dark02;
+$bg-blue: $bg-dark03;
+
+// Line colors
+$line-light: $light-gray;
+$line-dark: $dark-gray;
+$line-primary: $primary;
+$line-secondary: $secondary;
+
+// Link Colors
+$links: $text-color;
+$links-hover: lighten($text-color, 0.2%);
+
+/// Fonts Variables
+$font-primary: 'Roboto', sans-serif;
+$font-secondary: 'Mulish', sans-serif;
+
+$font-default: $font-primary;
+$heading-font: $font-default;
+$text-font: $font-default;
+
+/// Fonts weight
+$fw-xlight: 200;
+$fw-light: 300;
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-semi: 600;
+$fw-bold: 700;
+$fw-xbold: 800;
+$fw-black: 900;
+$fw-normal: $fw-regular;
+
+/// userSpaceOnUse
+$pad-space: 6.25rem;
+
+// Icons
+$circle: '/assets/img/unifacs/icon/circle.svg';
+$circle-radio: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='%23fff'/%3E%3C/svg%3E";
+$social-facebook: '/assets/img/icon/social-facebook.svg';
+$social-twitter: '/assets/img/icon/social-twitter.svg';
+$social-youtube: '/assets/img/icon/social-youtube.svg';
+$social-instagram: '/assets/img/icon/social-instagram.svg';
+$social-linkedin: '/assets/img/icon/social-linkedin.svg';
+$testimony_star: '/assets/img/icon/testimony-star.svg';
+$eye: '/assets/img/icon/eye-regular.svg';
+$eye-slash: '/assets/img/icon/eye-slash-regular.svg';
